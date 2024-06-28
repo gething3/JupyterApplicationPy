@@ -1,6 +1,6 @@
 # Conda environment with environment.yml
 
-[![Binder](http://mybinder.org/badge_logo.svg)]([(https://mybinder.org/v2/gh/gething3/JupyterApplicationPy/HEAD)
+[![Binder](http://mybinder.org/badge_logo.svg)]([(https://mybinder.org/v2/gh/gething3/JupyterApplicationPy/HEAD))
 
 
 A Binder-compatible repo with an `environment.yml` file.
